@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name"><b><u>ASSIGNMENT ON STOCK MARKET</u></b></string>
+    <string name="textview"><b>Report on the Company Britannia Industries with a stock market history of over 10 years.</b>\n\n</string>
+    <string name="textview2"><b><u>History of Company :</u></b> \n
+        a) The company was established in 1892 by a group of British businessmen with an investment of ₹295. Initially, biscuits were manufactured in a small house in central Kolkata.\n
+        b) Later, the enterprise was acquired by the Gupta brothers, mainly Nalin Chandra Gupta, an attorney, and operated under the name \"V.S. Brothers.\"\n
+        c) In 1918, C.H. Holmes, an English businessman based in Kolkata, was taken on as a partner and The Britannia Biscuit Company Limited (BBCo) was launched.The Mumbai factory was set up in 1924 and Peek
+        d) France UK, acquired a controlling interest in BBCo. Biscuits were in high demand during World War 2, which gave a boost to the company\'s sales.\n
+        e) The company name was changed to the current "Britannia Industries Limited" in 1979.\n
+        f) In 1982, the American company Nabisco Brands, Inc. acquired the parent of Peek Freans and became a major foreign shareholder.\n</string>
+    <string name="textview3">\n <u> <b>Important Personalities and milestones of company over the years.</b></u></string>
+    <string name="textview4">\n
+        • The company has been mired in several controversies connected to its management. However, it still has a large market share and it is profitable.\n
+• Kerala businessman <b>Rajan Pillai </b> secured control of the group in the late 1980s, becoming known in India as the \'Biscuit Raja\'.\n
+• In 1993, the Wadia Group acquired a stake in Associated Biscuits International (ABIL), and became an equal partner with Group Danone in Britannia Industries Limited.\n
+• In 1955 Britannia launched <b>Bourbone biscuits </b> which became one of the profitable product.\n
+• Economic Times ranked Britannia Industries as India \'s 2nd most trusted branded in 2002.\n
+        • Current CEO of Britannia is <b>Varun Berry </b> .\n
+• For the fiscal year ended March 2022, Britannia Industries consolidated net profit was down 18.08 percent to Rs. 1,515.98 crores.\n
+  It had reported a net profit of Rs. 1,850.59 crores in 2020-21. Its total revenue from operations was Rs. 14,136.26 crore.\n</string>
+    <string name="textview5"> <u>The current stock prices and recent variation in Stock market </u> \n</string>
+    <string name="textview6">
+        ➢ The current stock price of Britannia Industries is <b>Rs.3400.75</b>\n
+        ➢ On <b>May 31,2021</b> the stock price was around <b>Rs.3689 </b> and a slight downward\n
+        trend was observed for a period of 9 days and later it followed a sideways trend Till today.\n
+        ➢ On 29 July 2021 the stock price was Rs.3410 and within a span of 45 days, it touched Rs 4142 and
+        followed a downward trend consisting of lower highs.\n
+        ➢ Starting from September 15 2021 an overall downward trend.\n\n</string>
+    <string name="textview7"><b><u>Candle-stick chart to show the recent variation of prices in stock market </u>\n</b></string>
+    <string name="candlestick">TODO</string>
+    <string name="textview8"><u>Analysis of growth and fall by using relevant indicators \n</u> </string>
+    <string name="textview10">1) <b><u>Moving Average :\n</u></b>
+        • By using the Moving average indicator the company’s share price has been increased to 17 times in the last ten years I.e. from <b>Rs. 200 – Rs 3420</b>\n
+        • From <b>2015 to 2019</b> a bullish trend is observed. The stock price moved from <b>s. 420 to Rs 3400.</b>\n
+        The company has performed very well in these 5 years.\n</string>
+    <string name="todo">TODO</string>
+    <string name="textview11"> <b><u>2) Exponential Moving Average :</u></b>\n
+        An exponential moving average (EMA) is a type of moving(MA) that places a greater weight and significance
+        on the most recent data points.\n
+        ♦ Over 10 years, the graph of EMA and MA has been quite similar from the mid-year of 2020 to the current year 2022\n
+        ♦ A sidewise trend is observed but in the month of September 2021, it broke the resistance level an
+        again returned to follow the sidewise trend. \n </string>
+    <string name="textview12"><b><u>3) Relative Strength Index :</u></b>\n
+        The <b>relative strength index (RSI) </b> is a momentum indicator used in technical analysis that measures the
+        magnitude of recent price changes to evaluate overbought or oversold conditions in the price of a stock or other asset.\n
+   • Currently the value of RSI is 50 and is expected to increase based on previous trend.\n
+   • On 1st July 2015, the value of RSI touched a value of 97.50 and at this point in time, it\’s a precarious situation to buy stock of the Britannia industry.\n
+   • The value of RSI remained above 70 for a period of <b>18 months</b> from 2014 July to 2015 December.</string>
+
+</resources>
